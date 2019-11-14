@@ -2,7 +2,7 @@
 
 Summary of the "Discrete Mathematics" course taught by Prof. Dr. Ueli Maurer at ETH Zürich in fall 2014.
 
-**Note:** I didn't manage to entirely summerize the chapter on algebra yet - see handwritten notes and 'algebra.tex' TeX document.
+**Note:** I didn't manage to entirely summerize the chapter on algebra yet - see handwritten notes and `algebra.tex` TeX document.
 
 **Disclaimer:** Please be advised that nothing found here is guaranteed to be complete or correct.
 
