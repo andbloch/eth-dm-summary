@@ -1,0 +1,6 @@
+\newcommand{\emptyarg}[1][]{\ifthenelse{\isempty{#1}}{}{\ (#1)}}
+
+\newcommand{\Def}[1][]{\colorbox{defcolor}{\color{titlecolor}{\textbf{D.\emptyarg[#1]}}}\kern+0.3ex}
+\newcommand{\Thm}[1][]{\colorbox{thmcolor}{\color{titlecolor}{\textbf{T.\emptyarg[#1]}}}\kern+0.3ex}
+\newcommand{\Lem}[1][]{\colorbox{thmcolor}{\color{titlecolor}{\textbf{L.\emptyarg[#1]}}}\kern+0.3ex}
+\newcommand{\Cor}[1][]{\colorbox{thmcolor}{\color{titlecolor}{\textbf{C.\emptyarg[#1]}}}\kern+0.3ex}
