@@ -1,4 +1,4 @@
-# eth-dm-cheat-sheet
+# eth-dm-summary
 
 Summary of the "Discrete Mathematics" course taught by Prof. Dr. Ueli Maurer at ETH Zürich in fall 2014.
 
